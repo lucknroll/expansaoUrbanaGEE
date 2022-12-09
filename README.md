@@ -8,7 +8,7 @@ expansaoUrbana(nomeMun, t0Ano, t1Ano)
 
 # Argumentos:
 
-nomeMun: string com o nome do município desejado, em title case
+nomeMun: string com o nome do município desejado, com acentuação e title case
 
 t0Ano: int com o ano inicial de comparação
 
