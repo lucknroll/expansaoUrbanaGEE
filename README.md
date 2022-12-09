@@ -4,7 +4,13 @@ Visualização de mapas comparativos de expansão urbana por município de Santa
 O Script calcula a expansão urbana por município entre dois anos distintos, com base em imagens satelitais de luzes noturnas.
 Para isso, execute a função expansaoUrbana(nomeMun, t0Ano, t1Ano).
 
-Argumentos:
+# Argumentos:
+
 nomeMun: string com o nome do município desejado, em title case
+
 t0Ano: int com o ano inicial de comparação
+
 t1Ano: int com o ano final de comparação
+
+![image](https://user-images.githubusercontent.com/102811643/206728544-23093553-f521-4553-b1f6-815f3eb549fa.png)
+
