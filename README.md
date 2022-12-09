@@ -1,8 +1,10 @@
-# expansaoUrbanaSC
+# expansaoUrbanaGEE
 Visualização de mapas comparativos de expansão urbana por município de Santa Catarina através da plataforma Google Earth Engine
 
-O Script calcula a expansão urbana por município entre dois anos distintos, com base em imagens satelitais de luzes noturnas.
-Para isso, execute a função expansaoUrbana(nomeMun, t0Ano, t1Ano).
+O Script calcula a expansão urbana por município entre dois anos distintos, com base em imagens satelitais de luzes noturnas, e exibe na interface do Google Earth Engine.
+Para isso, execute a seguinte função:
+
+expansaoUrbana(nomeMun, t0Ano, t1Ano)
 
 # Argumentos:
 
